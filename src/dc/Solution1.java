@@ -8,8 +8,6 @@ public class Solution1 {
 
     private static int[] array1, array2;
 
-    private static int length;
-
     public static void main(String[] args) {
         //TODO
     }
