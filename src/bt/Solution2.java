@@ -48,7 +48,7 @@ public class Solution2 {
     }
 
     // 回溯算法
-    public static void backtrack(int t) {
+    private static void backtrack(int t) {
         // 超出层数，当前背包中的价值就是最优值
         if(t > num) {
             bestValue = currentValue;

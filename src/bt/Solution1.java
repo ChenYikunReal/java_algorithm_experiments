@@ -1,7 +1,6 @@
 package bt;
 
 import java.io.*;
-import java.util.Arrays;
 
 public class Solution1 {
 
